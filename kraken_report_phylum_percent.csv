@@ -1,0 +1,46 @@
+Taxa,/N/dc2/scratch/hleffler/kraken_report/SRR9649760_kraken_report, /N/dc2/scratch/hleffler/kraken_report/SRR9649757_kraken_report, /N/dc2/scratch/hleffler/kraken_report/SRR9649758_kraken_report, /N/dc2/scratch/hleffler/kraken_report/SRR9649759_kraken_report, /N/dc2/scratch/hleffler/kraken_report/SRR9649755_kraken_report, /N/dc2/scratch/hleffler/kraken_report/SRR9649754_kraken_report, /N/dc2/scratch/hleffler/kraken_report/SRR9649756_kraken_report
+Proteobacteria,  3.53,   7.72,   3.41,   3.37,   4.88,   8.58,   3.88
+Actinobacteria,  1.41,   3.37,   1.29,   1.23,   2.35,   4.04,   1.68
+Firmicutes,  0.88,   0.73,   0.90,   0.89,   0.84,   0.67,   0.83
+Cyanobacteria,  0.24,   0.18,   0.25,   0.25,   0.19,   0.17,   0.23
+Chloroflexi,  0.12,   0.11,   0.12,   0.11,   0.17,   0.10,   0.15
+Deinococcus-Thermus,  0.06,   0.10,   0.06,   0.06,   0.09,   0.12,   0.07
+Tenericutes,  0.03,   0.02,   0.03,   0.03,   0.02,   0.02,   0.02
+Armatimonadetes,  0.01,   0.01,   0.01,   0.01,   0.01,   0.01,   0.01
+Bacteroidetes,  0.44,   0.42,   0.44,   0.46,   0.41,   0.39,   0.43
+Chlorobi,  0.03,   0.03,   0.03,   0.03,   0.03,   0.03,   0.03
+Ignavibacteriae,  0.01,   0.01,   0.01,   0.01,   0.01,   0.01,   0.00
+Balneolaeota,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Gemmatimonadetes,  0.01,   0.04,   0.01,   0.01,   0.02,   0.05,   0.01
+Candidatus Cloacimonetes,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Fibrobacteres,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Planctomycetes,  0.29,   0.71,   0.28,   0.25,   0.53,   0.80,   0.30
+Verrucomicrobia,  0.04,   0.07,   0.04,   0.04,   0.06,   0.08,   0.04
+Kiritimatiellaeota,  0.01,   0.01,   0.01,   0.01,   0.01,   0.01,   0.01
+Chlamydiae,  0.01,   0.01,   0.01,   0.01,   0.01,   0.01,   0.01
+Lentisphaerae,  0.00,   0.01,   0.00,   0.00,   0.01,   0.01,   0.00
+Spirochaetes,  0.05,   0.04,   0.05,   0.05,   0.05,   0.04,   0.05
+Acidobacteria,  0.03,   0.08,   0.03,   0.03,   0.05,   0.09,   0.04
+Fusobacteria,  0.03,   0.01,   0.03,   0.03,   0.02,   0.01,   0.02
+Thermotogae,  0.02,   0.01,   0.02,   0.03,   0.02,   0.01,   0.02
+Nitrospirae,  0.02,   0.03,   0.02,   0.02,   0.02,   0.03,   0.02
+Synergistetes,  0.02,   0.02,   0.02,   0.02,   0.02,   0.02,   0.02
+Aquificae,  0.02,   0.01,   0.02,   0.02,   0.01,   0.01,   0.01
+Deferribacteres,  0.01,   0.01,   0.01,   0.01,   0.01,   0.01,   0.01
+Candidatus Bipolaricaulota,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.01
+Candidatus Saccharibacteria,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Candidatus Gracilibacteria,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Thermodesulfobacteria,  0.01,   0.01,   0.01,   0.01,   0.01,   0.00,   0.01
+Calditrichaeota,  0.00,   0.01,   0.00,   0.00,   0.01,   0.00,   0.00
+Elusimicrobia,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Dictyoglomi,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Chrysiogenetes,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Caldiserica,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Coprothermobacterota,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Euryarchaeota,  0.65,   0.23,   0.64,   0.62,   0.27,   0.25,   0.52
+Crenarchaeota,  0.03,   0.02,   0.03,   0.03,   0.03,   0.02,   0.03
+Thaumarchaeota,  0.02,   0.10,   0.02,   0.02,   0.03,   0.05,   0.01
+Candidatus Korarchaeota,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Candidatus Micrarchaeota,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00
+Chordata,  0.34,   0.22,   0.35,   0.34,   0.26,   0.19,   0.30
+Negarnaviricota,  0.00,   0.00,   0.00,   0.00,   0.00,   0.00,   0.00

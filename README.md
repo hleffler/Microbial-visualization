@@ -23,4 +23,4 @@ Documentation available here
 
 - Further details of this project are explained in the paper.
 
-For any questions or errors report them under issues.
+Report errors or questions to Issues. 

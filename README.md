@@ -19,8 +19,8 @@ Documentation available here
 
 ## Resources
 
-All the input files used for the scripts to make the graphs is available in the [data_input](https://github.com/hleffler/Microbial-visualization/tree/master/input_data) folder.
+- All the input files used for the scripts to make the graphs is available in the [data_input](https://github.com/hleffler/Microbial-visualization/tree/master/input_data) folder.
 
-Further details of this project are explained in the paper.
+- Further details of this project are explained in the paper.
 
 For any questions or errors report them under issues.

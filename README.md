@@ -1,34 +1,30 @@
 # Microbial visualization
-This is for a project. These steps below must be done before attempting to run R scripts in Jupyter Notebook. 
+This repository is for a project with [REU Jetstream](https://jetstream-cloud.org/research/reu.php) program. 
+
+NCGAS
+
 <br>
 ## Abstract
+Metagenomes consist of the total genome content collected from an environmental sample containing bacterial, archaeal, and viral sequences present. These datasets are complex and can be overwhelming to visualize. Using multiple visualization methods benefits researchers by allowing them to perform exploratory analyses that could aid in downstream analysis of the data. This paper focuses on using different visualization methods including a rarefaction curve, ordination plots, alluvial plot and heatmap to represent a metagenomic dataset using Jetstream. Applying the visualization methods on a hydrocarbon seepage metagenomic dataset, we found that the samples cluster based on location, one sample was similar to both reference and seep samples, and the datasets had human contamination. These findings can now lead to potential downstream analysis questions to further assess this data. The scripts and input files used to create the different visualizations are available on GitHub.
 
-## How to install jupyter notebook
-blogpost
+## How to install Jupyter notebook
+Jupyter notebook is a open-source project that allows code, text, images, and equations to be in one single document. To install Jupyter notebooks, follow [this blogpost](https://blogs.iu.edu/ncgas/2020/06/15/installing-jupyter-notebook-on-jetstream/).
 
 ## Kraken2 taxanomic annotation 
 
 Kraken2 is a taxonomic classification system that uses short genomic substrings (k-mer) matches. The k-mer is matched within a query sequence with the lowest common ancestor of all genomes containing the exact k-mer. Kraken is fast and provides a taxa report for each sample. To read more about Kraken2 and install the tool visit github.com/DerrickWood/kraken2/wiki. 
 
-### Installing kraken2 locally
+### Install Kraken 2
 
-Documentation available here, 
+Documentation available here 
 - https://github.com/DerrickWood/kraken2/wiki
 - https://blogs.iu.edu/ncgas/2019/09/24/taxa-annotation-for-shotgun-sequenced-metagenomic-data/
 
-### Running kraken2 command 
-
-`kraken2 --db $KRAKEN_DB --use-names --report-zero-counts --paired "$f"_1.fq "$f"_2.fq --report "$f"_kraken_report`
-
-Looking at the command above, the input samples are the forward and reverse read of the sample. Only one sample can be ran at a time using this command. In this case we had seven samples, so the command was run seven times. 
-
-### Results from kraken2
-
-Download the python3 script from GitHub
-
-`git clone https://github.com/npbhavya/Kraken2-output-manipulation.git`
 
 ## Resources
-input data is saved in input data folder
-report issue for script 
-paper
+
+All the input files used for the scripts to make the graphs is available in the [data_input](https://github.com/hleffler/Microbial-visualization/tree/master/input_data) folder.
+
+To report an issue about the scripts please contact 
+
+The paper written for this project can be located

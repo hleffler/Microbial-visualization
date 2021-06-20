@@ -1,0 +1,50 @@
+﻿Sample,Taxa,Abundance
+SRR9649754,Proteobacteria,8.58
+SRR9649754,Actinobacteria,4.04
+SRR9649754,Firmicutes,0.67
+SRR9649754,Planctomycetes,0.8
+SRR9649754,Bacteroidetes,0.39
+SRR9649754,Euryarchaeota,0.25
+SRR9649754,Other,1.1
+SRR9649757,Proteobacteria,7.72
+SRR9649757,Actinobacteria,3.37
+SRR9649757,Firmicutes,0.73
+SRR9649757,Planctomycetes,0.71
+SRR9649757,Bacteroidetes,0.42
+SRR9649757,Euryarchaeota,0.23
+SRR9649757,Other,1.17
+SRR9649755,Proteobacteria,4.88
+SRR9649755,Actinobacteria,2.35
+SRR9649755,Firmicutes,0.84
+SRR9649755,Planctomycetes,0.53
+SRR9649755,Bacteroidetes,0.41
+SRR9649755,Euryarchaeota,0.27
+SRR9649755,Other,1.17
+ SRR9649756,Proteobacteria,3.88
+ SRR9649756,Actinobacteria,1.68
+ SRR9649756,Firmicutes,0.83
+ SRR9649756,Planctomycetes,0.3
+ SRR9649756,Bacteroidetes,0.43
+ SRR9649756,Euryarchaeota,0.52
+ SRR9649756,Other,1.13
+SRR9649758,Proteobacteria,3.41
+SRR9649758,Actinobacteria,1.29
+SRR9649758,Firmicutes,0.9
+SRR9649758,Planctomycetes,0.28
+SRR9649758,Bacteroidetes,0.44
+SRR9649758,Euryarchaeota,0.64
+SRR9649758,Other,1.19
+SRR9649759,Proteobacteria,3.37
+SRR9649759,Actinobacteria,1.23
+SRR9649759,Firmicutes,0.89
+SRR9649759,Planctomycetes,0.25
+SRR9649759,Bacteroidetes,0.46
+SRR9649759,Euryarchaeota,0.62
+SRR9649759,Other,1.18
+SRR9649760,Proteobacteria,3.53
+SRR9649760,Actinobacteria,1.41
+SRR9649760,Firmicutes,0.88
+SRR9649760,Planctomycetes,0.29
+SRR9649760,Bacteroidetes,0.44
+SRR9649760,Euryarchaeota,0.65
+SRR9649760,Other,1.17
